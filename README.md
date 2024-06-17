@@ -43,5 +43,5 @@ The model's performance is evaluated using the ROC AUC score, which measures the
 To run the project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vaccine-prediction.git
+   git clone https://github.com/tan-war/Probability_GaussianNB_vaccine.git
    cd vaccine-prediction
